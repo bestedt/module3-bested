@@ -30,7 +30,7 @@ This web site functions as a random password generator. Allowing the user to ent
 https://github.com/coding-boot-camp/friendly-parakeet
 
 ## Deployed Link
-
+https://bestedt.github.io/module3-bested/
 
 ## Screen Shots
 ![Screenshot 2023-08-28 070818](https://github.com/bestedt/module3-bested/assets/139821441/578de270-74d5-433b-b77a-c8e732f3acd5)
