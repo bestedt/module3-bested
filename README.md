@@ -1,6 +1,11 @@
 # Module3 Challenge
 This repository is for the Module 3 Challenge. Where we are given a source code and must modify to fit the accepatance criteria 
 
+## User Story
+- AS AN employee with access to sensitive data
+- I WANT to randomly generate a password that meets certain criteria
+- SO THAT I can create a strong password that provides greater security
+
 ## Acceptance Criteria 
 - GIVEN I need a new, secure password
 - WHEN I click the button to generate a password
@@ -18,7 +23,7 @@ This repository is for the Module 3 Challenge. Where we are given a source code 
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
 
-## Puropose 
+## Purpose 
 This web site functions as a random password generator. Allowing the user to enter their needed parameters and get back a password that is completely randomized.
 
 ## Source Code Link
